@@ -6,7 +6,7 @@ Hello! I'm Rogério Martins, better known as Roge, I was born in Joinville - SC,
 Through the technologies I find out endless possibilities to fill my curiosity and still be able to share knowledge with other people.
 
 Studying software engineering at <a href="https://www.betrybe.com">Trybe</a> course.
-Already passed by fundamentals and front-end modules, where learned technolgies such as:
+Already passed by fundamentals, front-end and finishing back-end modules, where learned technolgies such as:
 <div>
     <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png" alt="Bash logo"/>
     <img width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git logo"/>
@@ -18,4 +18,7 @@ Already passed by fundamentals and front-end modules, where learned technolgies 
     <img width="50px" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Redux logo"/>
     <img width="50px" src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library logo"/>
     <img width="50px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="Jest logo"/>
+    <img width="50px" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="MySQL logo"/>
+    <img width="50px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="MongoDB logo"/>
+    <img width="50px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="NodeJS logo"/>
 </div>
