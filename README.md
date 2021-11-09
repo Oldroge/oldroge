@@ -10,19 +10,20 @@ Through the technologies I find out endless possibilities to fill my curiosity a
 Studying software engineering at <a href="https://www.betrybe.com">Trybe</a> course.
 Already passed by fundamentals, front-end and finishing back-end modules, where learned technolgies such as:
 <div>
-    <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png" alt="Bash logo"/>
-    <img width="70px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git logo"/>
-    <img width="70px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github logo"/>
+    <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bash/bash-original.svg" alt="Bash logo"/>
+    <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-plain.svg" alt="Git logo"/>
+    <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original.svg" alt="Github logo"/>
     <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg" alt="HTML logo"/>
     <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg" alt="CSS3 logo"/>
-    <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript logo"/>
-    <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="ReactJs logo"/>
-    <img width="70px" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Redux logo"/>
-    <img width="70px" src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library logo"/>
-    <img width="70px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="Jest logo"/>
-    <img width="100px" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="MySQL logo"/>
-    <img width="70px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="MongoDB logo"/>
-    <img width="70px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="NodeJS logo"/>
+    <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-plain.svg" alt="JavaScript logo"/>
+    <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original.svg" alt="ReactJs logo"/>
+    <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/redux/redux-original.svg" alt="Redux logo"/>
+    <img width="70px" src="https://i.imgur.com/wbRSD1i.png" alt="React Testing Library logo"/>
+    <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/jest/jest-plain.svg" alt="Jest logo"/>
+    <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL logo"/>
+    <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo"/>
+    <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS logo"/>
+    <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg" alt="Python logo"/>
 </div>
 
 # Status
