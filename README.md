@@ -38,6 +38,6 @@ Already passed by fundamentals, front-end and finishing back-end modules, where 
         <img width="120px" src="https://i.imgur.com/twkI2be.png" alt="Linkedin" />
     </a>
     <a href="mailto:rogeriomrjr@icloud.com" target="_blank">
-        <img width="120px" src="https://i.imgur.com/twkI2be.png" alt="Email" />
+        <img width="120px" src="https://i.imgur.com/a8RlM51.png" alt="Email" />
     </a>
 </div>
