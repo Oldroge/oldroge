@@ -1,5 +1,3 @@
-# Roge
-
 Hello! I'm Rogério Martins, better known as Roge, I was born in Joinville - SC, currently living in Florianópolis - SC.
 - Music Lover :musical_note:
 - curious about neuroscience :brain:
