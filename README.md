@@ -23,4 +23,4 @@ Already passed by fundamentals, front-end and finishing back-end modules, where 
     <img width="50px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="NodeJS logo"/>
 </div>
 
-<div style="margin: 0 auto">oi</div>
+<div style="text-align:center">oi</div>
