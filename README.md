@@ -1,6 +1,10 @@
 # Roge
 
 Hello! I'm Rogério Martins, better known as Roge, I was born in Joinville - SC, currently living in Florianópolis - SC.
+- Music Lover :musical_note:
+- curious about neuroscience :brain:
+- passionate about technology :computer:
+Through the technologies I find out endless possibilities to fill my curiosity and still be able to share knowledge with other people.
 
 Studying software engineering at <a href="https://www.betrybe.com">Trybe</a> course.
 Already passed by fundamentals and front-end modules, where learned technolgies such as:
