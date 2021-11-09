@@ -10,7 +10,7 @@ Through the technologies I find out endless possibilities to fill my curiosity a
 Studying software engineering at <a href="https://www.betrybe.com">Trybe</a> course.
 Already passed by fundamentals, front-end and finishing back-end modules, where learned technolgies such as:
 <div>
-    <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png" alt="Bash logo"/>
+    <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png" alt="Bash logo"/>
     <img width="70px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git logo"/>
     <img width="70px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github logo"/>
     <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg" alt="HTML logo"/>
