@@ -23,4 +23,11 @@ Already passed by fundamentals, front-end and finishing back-end modules, where 
     <img width="50px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="NodeJS logo"/>
 </div>
 
-<div style="text-align:center">oi</div>
+<div align:"center">
+    <a href="https://www.linkedin.com/in/roge/" target="_blank">
+        <img width="120px" src="https://i.imgur.com/twkI2be.png" alt="Linkedin" />
+    </a>
+    <a href="mailto:rogeriomrjr@icloud.com" target="_blank">
+        <img width="120px" src="https://i.imgur.com/twkI2be.png" alt="Email" />
+    </a>
+</div>
