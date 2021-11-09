@@ -23,6 +23,13 @@ Already passed by fundamentals, front-end and finishing back-end modules, where 
     <img width="50px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="NodeJS logo"/>
 </div>
 
+# Status
+
+<div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=oldroge&count_private=true&hide=stars&show_icons=true&theme=dracula" alt="Samuel Melo GitHub Stats" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldroge&layout=compact&theme=dracula" alt="Roge stats" />
+</div>
+
 # How to find me?
 <div align:"center">
     <a href="https://www.linkedin.com/in/roge/" target="_blank">
