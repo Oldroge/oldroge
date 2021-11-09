@@ -20,7 +20,7 @@ Already passed by fundamentals, front-end and finishing back-end modules, where 
     <img width="70px" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Redux logo"/>
     <img width="70px" src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library logo"/>
     <img width="70px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="Jest logo"/>
-    <img width="70px" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="MySQL logo"/>
+    <img width="100px" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="MySQL logo"/>
     <img width="70px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="MongoDB logo"/>
     <img width="70px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="NodeJS logo"/>
 </div>
