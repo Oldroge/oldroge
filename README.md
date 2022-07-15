@@ -1,5 +1,7 @@
 # About me:
 
+<a href="https://app.daily.dev/inRoge"><img src="https://api.daily.dev/devcards/853b402e08494c4894da548745dd6b50.png?r=65y" width="400" alt="Roge's Dev Card"/></a>
+
 Hello! I'm Rogério Martins, better known as Roge, I was born in Joinville - SC, currently living in Florianópolis - SC.
 - Music Lover :musical_note:
 - curious about neuroscience :brain:
